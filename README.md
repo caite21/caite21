@@ -1,6 +1,19 @@
-### Hi, I'm Caite 👋 Welcome!
-
+## Hi, Welcome to Caite's GitHub! <img align="middle" src="https://github.com/user-attachments/assets/fbd841ee-8e88-4437-b853-de683fe578c7" width="100">
 <!--
+### Let me help you find a few things:
+
+JavaScript Game
+
+Parallel Processing: Multithreading, Multiprocessing
+
+Machine Learning: 
+
+Hardware/Embedded Programming: STM32-Communication, Servo Robot 
+
+Android App: StressOverflow
+
+VHDL: 
+
 
 # 🌱 Page under construction
 
